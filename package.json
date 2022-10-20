@@ -1,0 +1,24 @@
+{
+  "name": "rnd-countries",
+  "version": "1.0.0",
+  "description": "Paquete que genera nombres de paises de manera aleatoria",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tiagoreez/rnd-countries.git"
+  },
+  "keywords": [],
+  "author": "Santiago Reez <tiagorpo8@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/tiagoreez/rnd-countries/issues"
+  },
+  "homepage": "https://github.com/tiagoreez/rnd-countries#readme",
+  "bin": {
+    "rnd-countries": "./bin/gloabl.js"
+  },
+  "preferGlobal": true
+}
